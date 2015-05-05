@@ -18,12 +18,12 @@ apples = bananas
 
 3.
 var a=30+30*(7-4); 
-What does a equal?
+What does a equal? 120
 120
 
 4.
 var a="null";
 var b="name";
 var results=a+b
-What is the result?
+What is the result? "nullname"
 "nullname"
