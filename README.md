@@ -3,8 +3,8 @@
 var a= 10;
 var b= 18;
 var c= 7;
-11 //what does b-c equal?
-35 //what does a+b+c equal?
+11 //what does b-c equal? 11
+35 //what does a+b+c equal? 35
 
 
 2.
@@ -13,8 +13,8 @@ var oranges= "blue";
 var bananas="purple";
 bananas = oranges
 apples = bananas 
-"blue" //What is the value of bananas? 
-"blue" //What is the value of apples?
+"blue" //What is the value of bananas? blue
+"blue" //What is the value of apples? blue
 
 3.
 var a=30+30*(7-4); 
